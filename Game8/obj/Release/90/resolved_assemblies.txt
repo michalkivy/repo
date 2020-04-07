@@ -1,0 +1,8 @@
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\Game8.dll
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\Java.Interop.dll
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\Mono.Android.dll
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\MonoGame.Framework.dll
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\mscorlib.dll
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\System.Core.dll
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\System.dll
+C:\Users\Piotr\Downloads\Gam21\Game8\obj\Release\90\android\assets\System.Runtime.Serialization.dll

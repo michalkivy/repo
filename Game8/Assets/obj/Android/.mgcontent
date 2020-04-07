@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Back.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Button.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Exit.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Menu.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Next.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Opcje.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Return.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyPrzyciskow/Start.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameLevel1Scene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameLevel2Scene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameLevel3Scene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameLevel4Scene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameLevel5Scene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameLevel6Scene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameLevel7Scene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameMainMenuScene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameOverScene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TexturyScen/ShowGameScene.jpg</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TextutyObiektow/charactersheet2.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TextutyObiektow/TexturaGracz.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TextutyObiektow/TexturaObiektu.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TextutyObiektow/TexturaPocisk.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TextutyObiektow/TexturaPrzeciwnik.png</File>
+    <File>C:/Users/Siwy/source/repos/Gam19/Game8/Assets/TextutyObiektow/TexturaPrzedmiotu1.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
